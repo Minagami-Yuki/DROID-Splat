@@ -1,3 +1,8 @@
+## :calendar:TODO
+ - [x] Supports the use of private datasets with depth images: Completed.
+ - [x] Fixed some bugs: Completed.
+ - [ ] Support KITTI data set evaluation.
+
 <p align="center">
   <a href="">
     <img src="assets/droidsplat.png" width="60%">
