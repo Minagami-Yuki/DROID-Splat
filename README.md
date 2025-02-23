@@ -1,7 +1,7 @@
-## :calendar:TODO
- - [x] Supports the use of private datasets with depth images: Completed.
- - [x] Fixed some bugs: Completed.
- - [ ] Support KITTI data set evaluation.
+## :calendar:TODO @FanZhu
+ - [x] I changed it to support the use of private datasets with depth images.
+ - [x] I fixed some bugs.
+ - [ ] I need to change it to support the evaluation of the KITTI dataset.
 
 <p align="center">
   <a href="">
